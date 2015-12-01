@@ -19,7 +19,7 @@ public class CreditScoreClient {
             
         } catch (Exception ex) {
             ex.printStackTrace();
-        }   
+        }
     }
 
     private static Context getInitialContext() throws NamingException {
