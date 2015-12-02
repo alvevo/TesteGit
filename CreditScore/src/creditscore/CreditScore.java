@@ -6,7 +6,4 @@ import javax.ejb.Remote;
 public interface CreditScore {
     
     int getCreditScore(String empID);
-	
-	
-    
 }
