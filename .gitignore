@@ -1,0 +1,7 @@
+*.jdb
+*.lck
+*.cdi_javac
+*.xml
+*.class
+*.ear
+*.jar
